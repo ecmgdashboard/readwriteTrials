@@ -59,3 +59,5 @@ google-auth~=2.12.0
 google-auth-oauthlib~=0.5.3
 google-auth-httplib2~=0.1.0
 google-api-python-client~=2.64.0
+gspread~=5.5.0
+gspread-pandas~=3.2.2
